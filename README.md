@@ -18,5 +18,6 @@
 [![X](https://img.shields.io/badge/X-000000?logo=X&logoColor=white&style=for-the-badge)](https://twitter.com/mishal_shanavas)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/19204171)<br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/mishal_shanavas)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<br>
 
-*Oh, and by the way... I use Arch! 😎*
+_Oh, and by the way... I use Arch! 😎_
