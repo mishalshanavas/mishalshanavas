@@ -8,8 +8,6 @@ Currently learning Rust because apparently I hate my life..
 
 [mishalshanavas.in](https://mishalshanavas.in) · mishalshanavas@yahoo.com
 
----
-
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
@@ -29,8 +27,6 @@ Currently learning Rust because apparently I hate my life..
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-
----
 
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat-square)](https://twitter.com/mishal_shanavas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/mishal-shanavas/)
